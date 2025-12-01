@@ -27,18 +27,6 @@ Computer Engineering graduate from Kocaeli University, passionate about building
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedineUzun&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedineUzun&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## Academic Publications
 
 **Implementation of a Decision Support Mechanism for AI-Enabled Diabetes Care System** - EEPES 2025
@@ -49,8 +37,17 @@ Computer Engineering graduate from Kocaeli University, passionate about building
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medine-uzun-160848223)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medineuzundev@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/medine-uzun-160848223">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:medineuzundev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MedineUzun">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
