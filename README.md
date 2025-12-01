@@ -11,6 +11,7 @@ Computer Engineering graduate from Kocaeli University, passionate about building
 - Computer Engineering @ Kocaeli University '25
 - Building AI-powered healthcare apps that help diabetes patients
 - Passionate about using tech to solve real health problems
+- Active member of Global Engineer Girls, an international community supporting women engineers
 - Currently exploring ML/AI in mobile applications
 - Kocaeli, Türkiye
 
@@ -56,11 +57,3 @@ Computer Engineering graduate from Kocaeli University, passionate about building
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<div align="center">
-
-*Building technology that makes a difference in people's lives*
-
-![Profile Views](https://komarev.com/ghpvc/?username=MedineUzun&color=blueviolet&style=flat-square)
-
-</div>
