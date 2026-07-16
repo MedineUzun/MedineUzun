@@ -17,7 +17,7 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 ---
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -28,7 +28,7 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 
 ---
 
-## Academic Publications
+
 
 **Implementation of a Decision Support Mechanism for AI-Enabled Diabetes Care System** - EEPES 2025
 
