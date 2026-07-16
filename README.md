@@ -1,28 +1,29 @@
 # Hi, I'm Medine Uzun!
 
-### Software Developer | Mobile & Full-Stack Development
 
-Computer Engineering graduate from Kocaeli University, passionate about building impactful health technology solutions with React Native, Flutter, and Spring Boot.
+I am a Computer Engineering graduate from Kocaeli University. Currently, I am working as a Backend Developer at **Çekiçler Marble**, taking part in the development processes of a corporate ERP project using **C#** and **Entity Framework (EF)**. 
+
+I also have experience as a Full Stack Developer in mobile and backend-oriented projects, focusing on producing end-to-end software solutions from the ideation phase to development and integration.
 
 ---
 
 ## About Me
 
-- Computer Engineering @ Kocaeli University '25
-- Building AI-powered healthcare apps that help diabetes patients
-- Passionate about using tech to solve real health problems
-- Active member of Global Engineer Girls, an international community supporting women engineers
-- Currently exploring ML/AI in mobile applications
-- Kocaeli, Türkiye
+* 🎓Computer Engineering @ Kocaeli University
+* Backend Developer at Çekiçler Marble, working on an enterprise ERP project using C# and EF.
+* During my studies, I took part in the TÜSEB-supported AIDCARE R&D project, working on AI-supported health technologies. The engineering contributions we made during this process were published as an academic paper at the international EEPES 2025 conference.
+* As an active member of the Global Engineer Girls (GEG) program, I support efforts that strengthen the visibility and presence of women engineers in the industry.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,flutter,spring,mongodb,git,nodejs,html,css,figma" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
 
