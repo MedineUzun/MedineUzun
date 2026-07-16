@@ -23,12 +23,9 @@ As an active member of the Global Engineer Girls (GEG) program, I support effort
 ---
 
 
-**Implementation of a Decision Support Mechanism for AI-Enabled Diabetes Care System** - EEPES 2025
-
-[Read Publication](https://www.mdpi.com/2673-4591/104/1/27)
+**Implementation of a Decision Support Mechanism for AI-Enabled Diabetes Care System** - EEPES 2025 [Read Publication](https://www.mdpi.com/2673-4591/104/1/27)
 
 ---
-
 
 <p align="center">
   <a href="https://linkedin.com/in/medine-uzun-160848223">
