@@ -9,14 +9,13 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 
 ## About Me
 
-🎓Computer Engineering @ Kocaeli University
+* Computer Engineering @ Kocaeli University🎓
 * Backend Developer at Çekiçler Marble, working on an enterprise ERP project using C# and EF.
 * During my studies, I took part in the TÜSEB-supported AIDCARE R&D project, working on AI-supported health technologies. The engineering contributions we made during this process were published as an academic paper at the international EEPES 2025 conference.
 * As an active member of the Global Engineer Girls (GEG) program, I support efforts that strengthen the visibility and presence of women engineers in the industry.
 
 ---
 
-## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -37,7 +36,7 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 
 ---
 
-## Connect With Me
+
 
 <p align="center">
   <a href="https://linkedin.com/in/medine-uzun-160848223">
