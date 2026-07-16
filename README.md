@@ -7,7 +7,6 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 
 ---
 
-## About Me
 
 * Computer Engineering @ Kocaeli University🎓
 * Backend Developer at Çekiçler Marble, working on an enterprise ERP project using C# and EF.
@@ -29,13 +28,11 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 ---
 
 
-
 **Implementation of a Decision Support Mechanism for AI-Enabled Diabetes Care System** - EEPES 2025
 
 [Read Publication](https://www.mdpi.com/2673-4591/104/1/27)
 
 ---
-
 
 
 <p align="center">
@@ -52,8 +49,7 @@ I also have experience as a Full Stack Developer in mobile and backend-oriented 
 
 ---
 
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 ---
