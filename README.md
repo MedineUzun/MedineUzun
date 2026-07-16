@@ -4,14 +4,9 @@
 I am a Computer Engineering graduate from Kocaeli University. Currently, I am working as a Backend Developer at **Çekiçler Marble**, taking part in the development processes of a corporate ERP project using **C#** and **Entity Framework (EF)**. 
 
 I also have experience as a Full Stack Developer in mobile and backend-oriented projects, focusing on producing end-to-end software solutions from the ideation phase to development and integration.
+During my studies, I took part in the TÜSEB-supported AIDCARE R&D project, working on AI-supported health technologies. The engineering contributions we made during this process were published as an academic paper at the international EEPES 2025 conference.
+As an active member of the Global Engineer Girls (GEG) program, I support efforts that strengthen the visibility and presence of women engineers in the industry.
 
----
-
-
-* Computer Engineering @ Kocaeli University🎓
-* Backend Developer at Çekiçler Marble, working on an enterprise ERP project using C# and EF.
-* During my studies, I took part in the TÜSEB-supported AIDCARE R&D project, working on AI-supported health technologies. The engineering contributions we made during this process were published as an academic paper at the international EEPES 2025 conference.
-* As an active member of the Global Engineer Girls (GEG) program, I support efforts that strengthen the visibility and presence of women engineers in the industry.
 
 ---
 
